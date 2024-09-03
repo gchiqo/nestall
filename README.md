@@ -1,0 +1,1 @@
+enerate files (controller, service, model, dto) from TypeORM file
